@@ -6,4 +6,4 @@ with https://chat.sentient.xyz/
 
 this is a game made with html
 
-https://sentientgame.netlify.app/
+game link: https://sentientgame.netlify.app/
